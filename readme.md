@@ -64,28 +64,28 @@ supposed to be in.
 
 ## Assignments
 
-Once you successfully joined/created a team & accepted the assignemnt, you can always see you assignments
+Once you have successfully joined/created a team & accepted the assignemnt, you can always see your assignments
 at https://github.com/BaylorComputerEngineering . The team creation/joining is one time only, so we don't
-have to go through this again.
+have to go through this again in the future.
 
 Once you have access to your assignment, you should update the readme.md in lab1 as we have discussed in
-lab 1:
+class, i.e.:
 
-- clone the repo
-- make changes
-- add / commit your changes
-- push it back to github
-- verifying your change by go to your assignment page to see if they are there
+- Clone the repo
+- Make changes
+- Add / commit your changes
+- Push it back to github
+- **Verify** your change by go to your assignment page to see if they are there
 
-I want both of team members do some changes this time even though the things you have change is only a
-few lines, just so that everyone can get familiar with the process. So what you can do is:
+I want **both** of team members make some changes to the `readme.md` this time, even though the things you have 
+change is only a few lines, just so that everyone can get familiar with the process. So what you can do is:
 
 - One member clone, make changes, and push back to github
 - Verify the changes on github
 - The other member clone, make rest of the changes, and push back to github
 - Verify the changes on github
 
-Or you can also do,
+Alternatively, you can also do:
 
 - Both member clone the origin assignment seperately.
 - One member make changes and push it back to github
@@ -96,3 +96,8 @@ Or you can also do,
 - Member who made the first change pull from the github to get the second change
 
 The second way can help you practice `git pull` command.
+
+**Note**:
+* Since we are just begin to use github, always **verify** your pushes by go to github.com to see it.
+* In the future, I might omitt the add / commit in my comments, so when I say "make changes and push it", it
+  always means that you need to make the necessary change, add the change, commit it, then push. 
