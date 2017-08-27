@@ -83,16 +83,16 @@ change is only a few lines, just so that everyone can get familiar with the proc
 - One member clone, make changes, and push back to github
 - Verify the changes on github
 - The other member clone, make rest of the changes, and push back to github
-- Verify the changes on github
+- **Verify** the changes on github
 
 Alternatively, you can also do:
 
 - Both member clone the origin assignment seperately.
 - One member make changes and push it back to github
-- Verify the changes on github
+- **Verify** the changes on github
 - The other member pull the changes from github
 - make changes and push it back to github 
-- Verify the changes on github
+- **Verify** the changes on github
 - Member who made the first change pull from the github to get the second change
 
 The second way can help you practice `git pull` command.
