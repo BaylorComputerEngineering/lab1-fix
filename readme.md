@@ -43,11 +43,11 @@ Once your partner tells you that the team is created, you can then join the team
 invitation link I sent you. Once you are there, you should see your team list above the creating team
 option:
 
-![Join team](pics/join_team_mark.png)
+![Join team](pics/join_team_marked.png)
 
 Join the team by clicking on "Join" button which might direct you to a 404 page like this:
 
-![Join team 404](picks/invitation_404.png)
+![Join team 404](pics/invitation_404.png)
 
 Don't panic. All you need to do is to go back to previous page by pressing "Back" button in your browser,
 and refresh that page. Then you should see confirmation page like this:
