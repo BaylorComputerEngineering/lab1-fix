@@ -29,11 +29,11 @@ Use the following instruction to create lab group:
     
 ![invitation 404](pics/invitation_404.png)
 
-    Don't panic. All you need to do is press the "back" button on your browser to go back to previous page,
-    and then refresh the page. You should see confirmation page like this:
+Don't panic. All you need to do is press the "back" button on your browser to go back to previous page,
+and then refresh the page. You should see confirmation page like this:
     
 ![invitation success](pics/invitation_success.png)
 
-    Now you can go to your assignment repository page by clicking on the link shown in confirmation page, or
-    go to https://github.com/BaylorComputerEngineering and your assignment link should be listed there.
+Now you can go to your assignment repository page by clicking on the link shown in confirmation page, or
+go to https://github.com/BaylorComputerEngineering and your assignment link should be listed there.
        
