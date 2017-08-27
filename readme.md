@@ -25,15 +25,40 @@ Use the following instruction to create lab group:
   - Enter your desired group/team name, and press "Create Team" button. 
  
   - Github classroom is still in beta, so some of its behaviors could be weird. After creating a team,
-    you may land to a 404 page like this:
+    you may direct you to a 404 page like this:
     
 ![invitation 404](pics/invitation_404.png)
 
-Don't panic. All you need to do is press the "back" button on your browser to go back to previous page,
-and then refresh the page. You should see confirmation page like this:
+Don't panic. All you need to do is to press the "back" button on your browser to go back to previous page,
+and refresh that page. Then you should see confirmation page like this:
     
 ![invitation success](pics/invitation_success.png)
 
 Now you can go to your assignment repository page by clicking on the link shown in confirmation page, or
 go to https://github.com/BaylorComputerEngineering and your assignment link should be listed there.
        
+### Joining a team
+
+Once your partner tells you that the team is created, you can then join the team by going to the same
+invitation link I sent you. Once you are there, you should see your team list above the creating team
+option:
+
+![Join team](pics/join_team_mark.png)
+
+Join the team by clicking on "Join" button which might direct you to a 404 page like this:
+
+![Join team 404](picks/invitation_404.png)
+
+Don't panic. All you need to do is to go back to previous page by pressing "Back" button in your browser,
+and refresh that page. Then you should see confirmation page like this:
+    
+![invitation success](pics/join_team_success.png)
+
+Now you can go to your assignment repository page by clicking on the link shown in confirmation page, or
+go to https://github.com/BaylorComputerEngineering and your assignment link should be listed there.
+
+### Change Team
+
+In the scenario where you accidentally joined the wrong team, email me your username and the team you are
+supposed to be in.
+
