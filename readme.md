@@ -1,8 +1,13 @@
 # Instructions for Lab 1 fix for Digital Logic Lab 2017
 
-As of Wednesday night, github classroom's bug was fixed. Everybody should log onto github.com and go to https://classroom.github.com 
-to have github classroom app authorized. Once your account is authroized, the following instruction should guide you through to setup
-assignment 1, and then you should submit assignment 1 as we have discussed in class.
+<!-- As of Wednesday night, github classroom's bug was fixed. Everybody should log onto github.com and go to https://classroom.github.com  -->
+<!-- to have github classroom app authorized. Once your account is authroized, the following instruction should guide you through to setup -->
+<!-- assignment 1, and then you should submit assignment 1 as we have discussed in class. -->
+
+## Authorize github classroom
+
+Got to https://classroom.github.com to have github classroom app authorized for your account. Skip this
+step if it is already authorized.
 
 ## Team assignmnet
 
